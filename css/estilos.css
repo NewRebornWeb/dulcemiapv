@@ -182,9 +182,28 @@ nav ul li:hover::after {
 	color: #fff;
 	cursor: pointer;
 	position: fixed;
+	bottom: 105px;
+	right: 17px;
+	border-radius: 50px;
+	text-align: center;
+	box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.5);
+	z-index: 1;
+}
+
+.wsp-button {
+	width: 55px;
+	height: 55px;
+	line-height: 64px;
+	background: #25d366;
+	font-size: 30px;
+	color: #fff;
+	cursor: pointer;
+	position: fixed;
 	bottom: 30px;
 	right: 17px;
 	border-radius: 50px;
+	border-color: #fff;
+	border-style: solid;
 	text-align: center;
 	box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.5);
 	z-index: 1;
