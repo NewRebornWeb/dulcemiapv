@@ -192,8 +192,7 @@ nav ul li:hover::after {
 
 .wsp-button {
 	width: 55px;
-	height: 55px;
-	line-height: 64px;
+	height: 55px;	
 	background: #25d366;
 	font-size: 30px;
 	color: #fff;
