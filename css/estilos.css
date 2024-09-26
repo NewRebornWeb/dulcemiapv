@@ -266,7 +266,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 .website img {
-	width: 48%;
+	height: 50%;
 }
 
 .website .contenedor-textos-main {
